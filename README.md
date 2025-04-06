@@ -1,1 +1,1 @@
-# jarvis-voice-assistant- It is a voice assistant application capable of performing application capable of performing various tasks such as playing music, and providing information.
+# jarvis-voice-assistant- It is a voice assistant application capable of performing various tasks such as playing music, and providing information.
